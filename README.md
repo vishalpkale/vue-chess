@@ -1,4 +1,4 @@
-VueChess
+VueChess 1
 ========
 
  - Users can create private or public games against other  real-time
